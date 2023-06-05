@@ -3,7 +3,7 @@ Perform Exploratory Data Analysis (EDA) on dataset ‘SampleSuperstore and as bu
 using PowerBI
 ![image](https://github.com/minhthu1012/Exporatory-Data-Analysis-SuperStore-USA/assets/109708451/f869327c-7718-4327-b537-095d39357145)
 
-**Some Obersevation and Recommendations: **
+**Some Obersevation and Recommendations:**
 
 A. Which Category is Best Selling and Most Profitable?
 - All 3 categories — Furniture and Office Supplies were make similar amount of sales but Technology amount of sales was way far
